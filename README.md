@@ -1,40 +1,40 @@
-# AUML-2026 | Machine Learning Course Studies
+# AUML-2026 | Makine Öğrenmesi Çalışmaları
 
-This repository contains my academic machine learning studies developed as part of the YZM212 Machine Learning course during the 2025–2026 Spring semester.
+Bu depo, makine öğrenmesi temellerini uygulamalı olarak geliştirmek amacıyla hazırladığım Python ve Jupyter Notebook çalışmalarını içerir.
 
-The studies focus on probabilistic modeling, numerical analysis, linear algebra applications and Bayesian inference using Python and Jupyter Notebook.
+Çalışmalar; olasılıksal modelleme, sayısal analiz, lineer cebir uygulamaları ve Bayesçi çıkarım gibi makine öğrenmesinin temel konularına odaklanır.
 
-## Contents
+## İçerik
 
-| Week  | Topic                                | Main Concepts                                                               |
-| ----- | ------------------------------------ | --------------------------------------------------------------------------- |
-| WEEK1 | HMM Speech Recognition               | Hidden Markov Models, Viterbi logic, log-likelihood                         |
-| WEEK2 | MLE with Smart City Traffic Modeling | Poisson distribution, Maximum Likelihood Estimation, numerical optimization |
-| WEEK3 | Eigenvalues & Eigenvectors           | Linear algebra, PCA, SVD, LDA, numerical eigendecomposition                 |
-| WEEK4 | Bayesian Brightness Inference        | Bayesian inference, MCMC, posterior analysis, uncertainty estimation        |
+| Hafta | Konu                                  | Temel Kavramlar                                                       |
+| ----- | ------------------------------------- | --------------------------------------------------------------------- |
+| WEEK1 | HMM Tabanlı Konuşma Tanıma            | Hidden Markov Models, Viterbi mantığı, log-likelihood                 |
+| WEEK2 | MLE ile Akıllı Şehir Trafik Modelleme | Poisson dağılımı, Maximum Likelihood Estimation, sayısal optimizasyon |
+| WEEK3 | Özdeğer ve Özvektör Analizleri        | Lineer cebir, PCA, SVD, LDA, sayısal özdeğer hesaplama                |
+| WEEK4 | Bayesçi Parlaklık Çıkarımı            | Bayesian inference, MCMC, posterior analizi, belirsizlik tahmini      |
 
-## Technologies
+## Kullanılan Teknolojiler
 
 Python, Jupyter Notebook, NumPy, SciPy, Matplotlib
 
-## What I Practiced
+## Üzerinde Çalıştığım Konular
 
-* Building small academic machine learning applications with Python
-* Applying probability and statistics concepts to modeling problems
-* Using numerical methods for parameter estimation and optimization
-* Connecting linear algebra concepts with machine learning methods
-* Preparing structured reports and reproducible notebook-based studies
+* Python ile küçük ölçekli makine öğrenmesi uygulamaları geliştirme
+* Olasılık ve istatistik kavramlarını modelleme problemlerine uygulama
+* Parametre tahmini ve optimizasyon için sayısal yöntemlerden yararlanma
+* Lineer cebir kavramlarını makine öğrenmesi yöntemleriyle ilişkilendirme
+* Notebook tabanlı, okunabilir ve tekrar üretilebilir teknik çalışmalar hazırlama
 
-## Repository Structure
+## Depo Yapısı
 
 ```text
 AUML-2026/
-├── WEEK1/   # HMM-based isolated word recognition
-├── WEEK2/   # MLE and Poisson traffic modeling
-├── WEEK3/   # Eigenvalues, eigenvectors and ML connections
-└── WEEK4/   # Bayesian inference with MCMC
+├── WEEK1/   # HMM tabanlı izole kelime tanıma
+├── WEEK2/   # MLE ve Poisson trafik modelleme
+├── WEEK3/   # Özdeğer, özvektör ve makine öğrenmesi bağlantıları
+└── WEEK4/   # MCMC ile Bayesçi çıkarım
 ```
 
-## Notes
+## Not
 
-These projects are academic studies prepared to strengthen my understanding of machine learning fundamentals. The focus is on learning, implementation, mathematical reasoning and clear documentation rather than production-level software development.
+Bu depo, makine öğrenmesi temellerini daha iyi kavramak, matematiksel düşünme becerimi güçlendirmek ve Python ile uygulamalı çalışma pratiği kazanmak amacıyla hazırlanmıştır. Odak noktası; üretim seviyesinde yazılım geliştirmeden çok öğrenme, uygulama, matematiksel akıl yürütme ve düzenli dokümantasyondur.
