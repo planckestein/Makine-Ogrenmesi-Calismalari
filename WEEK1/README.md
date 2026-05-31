@@ -1,7 +1,6 @@
 # HMM Speech Recognition
 
-Bu proje, YZM212 Makine Öğrenmesi dersi için hazırlanmış basit bir **izole kelime tanıma** ödevidir.
-Amaç, Hidden Markov Model (HMM) mantığını kullanarak iki kelimeyi ayırt eden küçük bir konuşma tanıma sistemi kurmaktır.
+Hidden Markov Model (HMM) mantığını kullanarak iki kelimeyi ayırt eden küçük bir konuşma tanıma sistemi kurmaktır.
 
 ## Problem Tanımı
 Ödev iki parçadan oluşur:
