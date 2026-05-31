@@ -1,5 +1,4 @@
 # 🔭 Bayesian Brightness Inference
-### YZM212 Makine Öğrenmesi – 4. Laboratuvar Ödevi
 
 > Gürültülü astronomik gözlem verilerinden bir gök cisminin gerçek parlaklığını ve ölçüm belirsizliğini **MCMC tabanlı Bayesyen çıkarım** ile tahmin etme.
 
@@ -100,4 +99,3 @@ Bayesyen çıkarım, astronomik parametre tahmini için güçlü ve güvenilir b
 
 ---
 
-*2025–2026 Bahar Dönemi | YZM212 Makine Öğrenmesi*
