@@ -1,7 +1,5 @@
-# EigenVectors & EigenValues – Ödev Raporu
+# EigenVectors & EigenValues –  Rapor
 
-> **YZM212 Makine Öğrenmesi | 2025–2026 Bahar Dönemi**  
-> **III. Laboratuvar Değerlendirmesi**
 
 ---
 
