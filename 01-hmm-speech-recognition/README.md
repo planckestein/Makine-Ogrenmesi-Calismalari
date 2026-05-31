@@ -3,7 +3,7 @@
 Hidden Markov Model (HMM) mantığını kullanarak iki kelimeyi ayırt eden küçük bir konuşma tanıma sistemi kurmaktır.
 
 ## Problem Tanımı
-Ödev iki parçadan oluşur:
+Proje iki parçadan oluşur:
 1. **Teorik bölüm**: `EV` kelimesi için verilen HMM parametreleriyle Viterbi algoritması uygulanır.
 2. **Uygulama bölümü**: Python ve `hmmlearn` ile `EV` ve `OKUL` kelimeleri için iki ayrı HMM tanımlanır ve yeni bir gözlem dizisinin hangi modele daha uygun olduğu log-likelihood ile belirlenir.
 
